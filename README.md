@@ -16,3 +16,5 @@ https://velog.io/@ksj09/posts
 https://velog.io/@hseungjae/series
 5. 임지
 https://velog.io/@lim_jihoon_12/posts
+6. 영재
+https://velog.io/@sorkdlrlsek/posts
